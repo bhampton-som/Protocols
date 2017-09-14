@@ -1,0 +1,49 @@
+Injector Valve Position: Load
+Syringe Valve Position: Needle
+Asp 25.0ul Reag-A Speed:1 H=5mm
+Wait 0:00:10
+Syringe Valve Position: Waste
+Syringe Home
+Syringe Valve Position: Needle
+Asp. 25.0ul Reag-A Speed:1 H=5mm
+Wait 0:00:10
+Syringe Valve Position: Waste
+Syringe Home
+Syringe Valve Position: Needle
+Asp 25.0ul Reag-A Speed:1 H=5mm
+Wait 0:00:10
+Syringe Valve Position: Waste
+Syringe Home
+Syringe Valve Position: Needle
+Asp. 25.0ul Reag-A Speed:1 H=5mm
+Wait 0:00:10
+Syringe Valve Position: Waste
+Syringe Home
+Syringe Valve Position: Needle
+Wait for Input 3 to become Low
+Asp 14ul Reag-A Speed:1 H:5mm
+Wait 0:00:15
+Asp 5ul Sample Speed:1 H:5mm
+Wait 0:00:15
+Asp 6ul Reag-A Speed:1 H:5mm
+Wait 0:00:15
+Injector Valve Position: Inject
+Wait 0:20:00
+Injector Valve Position: Load
+Auxiliary Port 1 ON
+Auxiliary Port 2 ON
+Wait 0:00:10
+Auxiliary Port 1 OFF
+Auxiliary Port 2 OFF
+Disp 25.0ul Waste Speed:3
+Asp 25.0ul Reag-A Speed:1 H=5mm
+Disp 25.0ul Waste Speed:3
+Asp 25.0ul Reag-B Speed:1 H=5mm
+Disp 25.0ul Wash Speed:3
+Asp 25.0ul Reag-B Speed:1 H=5mm
+Disp 25.0ul Wash Speed:3
+Asp 25.0ul Reag-A Speed:1 H=5mm
+Disp 25.0ul Wash Speed:3
+Asp 25.0ul Reag-A Speed:1 H=5mm
+Disp 25.0ul Wash Speed:3
+Wait 0:00:05
