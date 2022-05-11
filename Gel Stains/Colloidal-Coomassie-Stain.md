@@ -4,7 +4,7 @@
 - Kang, Dong-Hoon, Yong-Song Gho, Myung-Koo Suh, and Chul-Hun Kang. “Highly Sensitive and Fast Protein Detection with Coomassie Brilliant Blue in Sodium Dodecyl Sulfate-Polyacrylamide Gel Electrophoresis.” Bulletin of the Korean Chemical Society 23, no. 11 (2002): 1511–12. https://doi.org/10.5012/bkcs.2002.23.11.1511.
 - Dyballa, Nadine, and Sabine Metzger. “Fast and Sensitive Colloidal Coomassie G-250 Staining for Proteins in Polyacrylamide Gels.” Journal of Visualized Experiments, no. 30 (August 3, 2009): 2–5. https://doi.org/10.3791/1431.
 
-### Reagents and example Supplier Information:
+### Reagents and example supplier information:
 - Aluminum Sulfate-(14-18)-hydrate (Sigma Cat. No. 368458-500G)
 - Coomassie Blue G-250 (BioRad Cat. No. 161-0406
 - Ethanol, 95% (e.g. Pharmco-AAPER Cat. No. 111000190 - *not denatured alcohol*)
