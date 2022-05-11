@@ -22,7 +22,8 @@
 - 2% Phosphoric Acid
 
 ### Prepare the staining solution:
-**Important: The order of addition of the components of the stain in the below procedure must be strictly adhered to.**
+**Important: The order of addition of the components of the stain in the below procedure must be strictly adhered to.
+Do Not filter the solution.  Particulates are critical for optimum staining sensitivity.**
 
 1. Dissolve 100g aluminum sulfate-(14-18)-hydrate in ~1500mls of purified water.
 2. Add 200mls of ethanol stir to mix.
