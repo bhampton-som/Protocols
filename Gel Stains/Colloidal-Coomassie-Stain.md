@@ -1,3 +1,5 @@
+## Sensitive Coomassie Staining of Protein Bands in SDS-PAGE Gels
+
 ### References:
 - Kang, Dong-Hoon, Yong-Song Gho, Myung-Koo Suh, and Chul-Hun Kang. “Highly Sensitive and Fast Protein Detection with Coomassie Brilliant Blue in Sodium Dodecyl Sulfate-Polyacrylamide Gel Electrophoresis.” Bulletin of the Korean Chemical Society 23, no. 11 (2002): 1511–12. https://doi.org/10.5012/bkcs.2002.23.11.1511.
 - Dyballa, Nadine, and Sabine Metzger. “Fast and Sensitive Colloidal Coomassie G-250 Staining for Proteins in Polyacrylamide Gels.” Journal of Visualized Experiments, no. 30 (August 3, 2009): 2–5. https://doi.org/10.3791/1431.
@@ -20,7 +22,7 @@
 - 2% Phosphoric Acid
 
 ### Prepare the staining solution:
-**Important: The order of addition of the components of the stain in the below list must be strictly adhered to.**
+**Important: The order of addition of the components of the stain in the below procedure must be strictly adhered to.**
 
 1. Dissolve 100g aluminum sulfate-(14-18)-hydrate in ~1500mls of purified water.
 2. Add 200mls of ethanol stir to mix.
