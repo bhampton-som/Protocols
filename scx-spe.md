@@ -14,7 +14,7 @@
 ### Sample considerations:
 - The sample may contain detergents or polymers that are uncharged or negatively charged.
 - The sample should be diluted so the ionic strength is below 10mM.
-- Some detergents are difficult to remove such as the Triton series.  Larger wash volumes and inclusion of ethyl acetate washes remove the detergents to trace levels.  
+- Some detergents are difficult to remove such as the Triton series.  Larger wash volumes and inclusion of ethyl acetate washes remove the detergents down to trace levels.  
 
 ### Solid phase extraction - peptide cleanup:
 1. Pack a P1000 pipet tip with 2 x 2mm diameter Empore Cation discs cut out using a 2mm diameter dermal biopsy punch. Pushing the plunger then letting the release snap up causes the discs to drop down.  Using a suitable small diameter rod push the discs down to the tip until they are compacted neatly. The pipet tip oriface should be small enough to retain the discs at the g-force needed to pass the liquids through the packed bed.  Two 2mm discs should be enough SCX material to bind up to ~30ug of peptides.
