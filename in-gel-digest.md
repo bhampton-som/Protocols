@@ -26,4 +26,4 @@ Remove liquid and wash gel pieces with 50% Ethanol, 50mM TEAB for 15min.
 8. Add enough digest buffer without Trypsin to cover the hydrated gel pieces.
 9. Incubate at 37C for 4hrs.  (This can be done in a thermocycler and programmed to hold indefinitely at 4C.)
 10. Extract peptides 2 times with 25% acetonitrile, 0.1% formic acid with sonication to assist peptide diffusion out of the gel pieces.  Extract one more time with 100% acetonitrile.
-11. Combine the extracts and directly apply to Empore SCX stage tips for processing according to the SCX Cleanup Protocol.  This cleanup protocol can be found elsewhere on GitHub.
+11. Combine the extracts and directly apply to Empore SCX stage tips for processing according to the SCX Cleanup Protocol.  This cleanup protocol can be found elsewhere on GitHub.  As of May 12, 2022 this file doesn't exist.
