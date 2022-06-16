@@ -3,7 +3,7 @@
 ### Materials
 
 Kasil-1
-Formamide, high diaPrecursorFilterType
+Formamide, High purity
 
 ### Procedure
 1. Add 300ul of Kasil-1 to a 1.5ml snap cap tube.
