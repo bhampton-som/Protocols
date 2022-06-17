@@ -13,8 +13,9 @@
 
 ### Solutions
 - Reduction/Alkylation 10x Stock Solution: (100mM TCEP, 400mM CAA in 0.4M KOH.  TCEP is acidic and the KOH is necessary to obtain a neutral pH of the final solution.)
-- Red/Alk Buffer: 50mM TEAB, 10mM TCEP, 40mM CAA
-- Digest Buffer: 50mM HEPES pH 8.5, 1% SDC, 2.5ng/ul Trypsin
+- Red/Alk Buffer: 50mM HEPES pH 8.5, 10mM TCEP, 40mM CAA
+- Digest Buffer with Trypsin: 50mM HEPES pH 8.5, 1% SDC, 2.5ng/ul Trypsin
+- Digest Buffer w/o Trypsin: 50mM HEPES pH 8.5, 1% SDC
 
 ### Method
 1. Excise the relevant area of the gel containing protein bands of interest using a clean razor blade or scalpel with No. 11 blade.
@@ -25,7 +26,7 @@
 Remove liquid and wash gel pieces with 50% Ethanol, 50mM TEAB for 15min.
 6. Dehydrate with 100% Ethanol.
 7. Add enough digest buffer containing Trypsin @ 2.5ng/ul to just cover the gel pieces and incubate on ice for 60min.
-8. Add enough digest buffer without Trypsin to cover the hydrated gel pieces.
-9. Incubate at 37C for 4hrs.  (This can be done in a thermocycler and programmed to hold indefinitely at 4C.) I also incubate at RT over night.
-10. Extract peptides 2 times with 25% acetonitrile, 0.1% formic acid with sonication to assist peptide diffusion out of the gel pieces.  Extract one more time with 100% acetonitrile.
+8. Remove excess trypsin containing buffer and replace with enough digest buffer without Trypsin to cover the hydrated gel pieces.
+9. Incubate at 37C for 4hrs.  (This can be done in a thermocycler to follow with an indefinate hold at 4C.) I also incubate at RT over night with shaking.
+10. Extract peptides 2 times with 80% acetonitrile, 1.0% formic acid with sonication to assist peptide diffusion out of the gel pieces.  Extract one more time with 100% acetonitrile.
 11. Combine the extracts and directly apply to Empore SCX stage tips for processing according to the SCX Cleanup Protocol.  This cleanup protocol can be found elsewhere on GitHub.  As of May 12, 2022 this file doesn't exist.
