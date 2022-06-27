@@ -30,4 +30,4 @@
 - This can be accomplished using manual air pressure using a 5- or 10ml syringe fitted with silicone tubing of a size that will seal inside the top of the P1000 tip.
 Alternately, the elution solvent can be spun through the tips into injection vials that are placed into clean receiver tubes after carefully directing the P1000 tip into the center of the injection vial and applying centrifugal force.
 9. Evaporate eluted peptides to dryness in a centrifugal vacuum concentrator such as a speed-vac.
-10. Dissolve peptides in injection solvent appropriate for your LC/MS system.
+10. Dissolve peptides in injection solvent appropriate and volume for your LC/MS system.
