@@ -3,7 +3,7 @@
 - Ethyl Acetate
 - SPE Load Buffer: 80% Acetonitrile, 1.0% Formic Acid
 - SPE Wash Buffer: 10% Acetonitrile, 0.2% Formic Acid
-- SPE Elution Buffer: 80% Acetonitrile, 5% Ammonium Hydroxide *(__IMPORTANT__ - Must be made up fresh!)*
+- SPE Elution Buffer: 80% Acetonitrile, 5% Ammonium Hydroxide Solution [Ricca Cat. No. RABA0020-500D1] *(__IMPORTANT__ - Must be made up fresh!)*
 - Empore Cation solid phase extraction discs (CDS Cat. No. 2251.
   Premade tips are also available. https://www.cdsanalytical.com/empore)
 - Dermal Biopsy Punch 2mm with plunger (Miltex Integra Cat. No. 33-31-P/25)
