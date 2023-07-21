@@ -21,12 +21,11 @@
 2. Add 500ul SPE Load Buffer to the packed P1000 tip. (10x the volume of the digest volume. In this case 50ul was the digest volume.)
 3. Pipet the tryptic peptides into the tip and mix by pipetting up and down vigorously. If SDC is in the digest buffer it will initially precipitate forming a cloudy appearance which will fully and quickly dissolve upon mixing.
 4. Spin the liquid through the tip at an adequate g-force until dry.  This takes a few minutes
-5. Add 500ul of SPE Load Buffer and spin dry.
-6. Add 500ul of ethyl acetate and spin dry.
-7. Add 500ul of SPE Load Buffer and spin dry.
+5. Add 500ul of ethyl acetate and spin dry.
+6. Add 500ul of SPE Load Buffer and spin dry.
 - Additional washes of ethyl acetate and SPE Load Buffer can be used to ensure "complete" detergent removal if very high concentrations were originally present.  Take care not to allow the P1000 tip to contact any solvent in the collection tube.
 7. Add 500ul of SPE Wash Buffer and spin dry.
-8. Elute bound peptides with 100ul of SPE Elution Buffer directly into injection vials or other tubes.
+8. Elute bound peptides with 150ul of SPE Elution Buffer (50ul/2mm Empore Disc) directly into injection vials or other tubes.
 - This can be accomplished using manual air pressure using a 5- or 10ml syringe fitted with silicone tubing of a size that will seal inside the top of the P1000 tip.
 Alternately, the elution solvent can be spun through the tips into injection vials that are placed into clean receiver tubes after carefully directing the P1000 tip into the center of the injection vial and applying centrifugal force.
 9. Evaporate eluted peptides to dryness in a centrifugal vacuum concentrator such as a speed-vac.
