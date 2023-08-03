@@ -12,7 +12,7 @@
 - Spin adapter collars to hold tips at top of receiver tube.
 
 ### Sample considerations:
-- The sample may contain detergents or polymers that are uncharged or negatively charged.
+- The sample may contain detergents or polymers that are uncharged or negatively charged, this procedure will remove them from the tryptic peptides.
 - The sample should be diluted so the ionic strength is below 10mM.
 - Some detergents are difficult to remove such as the Triton series.  Larger wash volumes and inclusion of ethyl acetate washes remove the detergents down to trace levels.  
 
